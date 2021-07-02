@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Aptagrim_assessment/static/css/main.badd0a05.chunk.css",
+    "main.js": "/Aptagrim_assessment/static/js/main.c83f1fca.chunk.js",
+    "main.js.map": "/Aptagrim_assessment/static/js/main.c83f1fca.chunk.js.map",
+    "runtime-main.js": "/Aptagrim_assessment/static/js/runtime-main.87f0c9c1.js",
+    "runtime-main.js.map": "/Aptagrim_assessment/static/js/runtime-main.87f0c9c1.js.map",
+    "static/js/2.520f0a6a.chunk.js": "/Aptagrim_assessment/static/js/2.520f0a6a.chunk.js",
+    "static/js/2.520f0a6a.chunk.js.map": "/Aptagrim_assessment/static/js/2.520f0a6a.chunk.js.map",
+    "static/js/3.510109c3.chunk.js": "/Aptagrim_assessment/static/js/3.510109c3.chunk.js",
+    "static/js/3.510109c3.chunk.js.map": "/Aptagrim_assessment/static/js/3.510109c3.chunk.js.map",
+    "index.html": "/Aptagrim_assessment/index.html",
+    "static/css/main.badd0a05.chunk.css.map": "/Aptagrim_assessment/static/css/main.badd0a05.chunk.css.map",
+    "static/js/2.520f0a6a.chunk.js.LICENSE.txt": "/Aptagrim_assessment/static/js/2.520f0a6a.chunk.js.LICENSE.txt",
+    "static/media/Applicant.93bf247c.png": "/Aptagrim_assessment/static/media/Applicant.93bf247c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87f0c9c1.js",
+    "static/js/2.520f0a6a.chunk.js",
+    "static/css/main.badd0a05.chunk.css",
+    "static/js/main.c83f1fca.chunk.js"
+  ]
+}

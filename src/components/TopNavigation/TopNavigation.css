@@ -1,0 +1,68 @@
+.gradient{
+	background: linear-gradient(180deg, #FCDE73 0%, rgba(252, 222, 115, 0) 195.35%);
+}
+
+.Rectangle2{
+	/* Rectangle 443 */
+  position: absolute;
+  width: 1158.8px;
+  height: 100px;
+  left: 265.59px;
+  top: 15.4px;
+
+  background: linear-gradient(180deg, #FCDE73 0%, rgba(252, 222, 115, 0) 195.35%);
+  border-radius: 10px;
+}
+
+.employee{
+    position: absolute;
+    left: 2.84%;
+    right: 72.38%;
+    top: 18.92%;
+    bottom: 92.15%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #2A2515;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.searchbar{
+    position: absolute;
+
+    border: 1px solid #FFDB58;
+    background: #FFFFFF;
+    height: 39.42219161987305px;
+    width: 240.09738159179688px;
+    left: 600.9560546875px;
+    top: 30.1884765625px;
+    border-radius: [object Object]px; 
+}
+
+.logo1{
+    position: absolute;
+    width: 27.53px;
+    height: 32px;
+    left: 1000.5px;
+    top: 35.4px;
+}
+
+.logo2{
+    position: absolute;
+    width: 36.52px;
+    height: 32.33px;
+    left: 1050.06px;
+    top: 35.24px;
+}
+
+.logo3{
+    position: absolute;
+    width: 36.3px;
+    height: 35.33px;
+    left: 1100.39px;
+    top: 35.74px;
+}

@@ -1,0 +1,288 @@
+.SideNavigation{
+	height: 1024px;
+    width: 250px;
+    left: 0px;
+    top: 0px;
+    border-radius: [object Object]px;
+}
+
+.secondarycolor{
+background: #2A2515;
+}
+
+/* Rectangle 3413 */
+
+.Rectangle1{
+position: absolute;
+width: 250px;
+height: 1200px;
+left: 0px;
+top: 0px;
+}
+
+/* secondary color */
+
+.colRectangle{
+background: #2A2515;
+border-radius: 0px 10px 10px 0px;
+}
+
+.EOA{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 40.5px;
+    top: 32.91px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 30px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* Primary color */
+
+    color: #FFDB58;
+}
+
+.Dashboard{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 16.03px;
+    top: 147px;
+}
+
+.Dashboard-text{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 50.03px;
+    top: 147px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.Stage{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 14px;
+    top: 295px;
+}
+
+.Stage-text{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 50.03px;
+    top: 295px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+
+
+.rectangle6{
+    position: absolute;
+    width: 239.1px;
+    height: 50.38px;
+    left: 5px;
+    top: 207px;
+
+    background: rgba(255, 219, 88, 0.9);
+    border-radius: 5px;
+    }
+
+.Employees{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    /* secondary color */
+    color: #2A2515;
+}
+
+.Welcome{
+    position: absolute;
+    left: 35.64px;
+    right: 96.52%;
+    top: 28.96%;
+    bottom: 64.38%;
+}
+
+.Welcome-text{
+    position: absolute;
+    left: 25.01%;
+    right: 87.99%;
+    top: 28.79%;
+    bottom: 64.21%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13.6509px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.Vector{
+    position: absolute;
+    left: 35.64px;
+    right: 96.58%;
+    top: 35.14%;
+    bottom: 58.23;
+}
+
+.Vector-text{
+    position: absolute;
+    left: 25.01%;
+    right: 87.99%;
+    top: 34.59%;
+    bottom: 64.21%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13.6509px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.Skill{
+    position: absolute;
+    width: 91.22px;
+    height: 20.48px;
+    left: 35.64px;
+    top: 472.29px;
+}
+
+.Know{
+    position: absolute;
+    left: 35.64px;
+    right: 96.87%;
+    top: 45.51%;
+    bottom: 46.1%;
+    display: in-line;
+}
+
+.Know-text{
+    color: #FFFFFF;
+    space:  nowrap;
+    position: absolute;
+    left: 60.64px;
+    right: 96.87%;
+    top: 42.51%;
+    bottom: 46.1%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13.6509px;
+    line-height: 20px;
+    /* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.Joining{
+    position: absolute;
+    width: 185.58px;
+    height: 20.48px;
+    left: 34.28px;
+    top: 598.56px;
+}
+
+
+.Feedback{
+    position: absolute;
+    width: 20.58px;
+    height: 20.48px;
+    left: 34.28px;
+    top: 650.56px;
+
+}
+
+.Feedback-text{
+    position: absolute;
+    width: 20.58px;
+    height: 20.48px;
+    left: 65.28px;
+    top: 650.56px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13.6509px;
+    line-height: 20px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.Background{
+    position: absolute;
+    width: 20.58px;
+    height: 20.48px;
+    left: 34.28px;
+    top: 720.56px;
+}
+
+.Background-text{
+    position: absolute;
+    width: 20.58px;
+    height: 20.48px;
+    left: 65.28px;
+    top: 720.56px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13.6509px;
+    line-height: 20px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+
+.Setting{
+    position: absolute;
+    width: 89.97px;
+    height: 23px;
+    left: 15.03px;
+    top: 793.52px;
+}
+
+
+
+

@@ -1,0 +1,16 @@
+.App {
+  height: 1024px;
+  width: 1440px;
+  left: 5697px;
+  top: 4836px;
+  border-radius: 0px;
+  background: #FFFFFF;
+}
+
+.Desktop{
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background: #FFFFFF;
+}
+

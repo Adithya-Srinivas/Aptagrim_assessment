@@ -1,0 +1,49 @@
+.Candidateprop{
+    height: 27px;
+    width: 198px;
+    left: 276px;
+    top: 235px;
+    border-radius: nullpx;
+}
+
+.group{
+	position: absolute;
+    width: 198px;
+    left: 276px;
+    top: 210px;
+}
+
+.Candidates{
+	
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    color: #4F4F4F;
+}
+
+/* 25 */
+.number{
+    position: absolute;
+    left: 70.39%;
+    right: 67.08%;
+    top: 0.95%;
+    bottom: 74.41%;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 27px;
+/* identical to box height */
+
+
+/* secondary color */
+
+    color: #2A2515;
+
+}
